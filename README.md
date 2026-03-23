@@ -4,5 +4,5 @@
 
 | 번호 | 문제 이름 | 난이도 | 소스 코드 | 풀이 날짜 |
 | :--- | :--- | :---: | :---: | :---: |
-| 1000 | [A+B](https://www.acmicpc.net/problem/1000) | Bronze V | [:link:](./1000.c) | 2026-03-24 |
+| 30328 | [곱하기] | Bronze V | https://www.acmicpc.net/problem/30328  | 2026-03-24 |
 |   |   |   |   |   |
