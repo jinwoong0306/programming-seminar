@@ -6,7 +6,7 @@ int main(){
     scanf("%d", &n);
 
     for(int i=0;i<n;i++){
-        int temp;
+        int temp=0;
         scanf("%d", &temp);
         num[temp+1000000]=1;
     }
