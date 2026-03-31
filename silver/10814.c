@@ -18,7 +18,7 @@ int main(){
         age_count[list[i].age]++;
     }
 
-    for(int i=0;i<200;i++){
+    for(int i=0;i<=200;i++){
         if(age_count[i]==0){
             continue;
         }
